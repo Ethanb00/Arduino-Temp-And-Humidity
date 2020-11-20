@@ -7,3 +7,7 @@
 * Breadboard
 * Jumpers
 * USB-B to USB-A power
+
+
+## Basic Breadboard Diagram
+![Basic Breadboard Diagram](https://github.com/Ethanb00/Arduino-Temp-And-Humidity/blob/main/tempAndHumidty_bb.png)
