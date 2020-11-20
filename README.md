@@ -11,3 +11,7 @@
 
 ## Basic Breadboard Diagram
 ![Basic Breadboard Diagram](https://github.com/Ethanb00/Arduino-Temp-And-Humidity/blob/main/tempAndHumidty_bb.png)
+
+## In Real Life
+
+![In Real Life](https://github.com/Ethanb00/Arduino-Temp-And-Humidity/blob/main/buildPic.jpg)
